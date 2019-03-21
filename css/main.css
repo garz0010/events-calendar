@@ -6,8 +6,19 @@ table {
   border-color: #ccc;
 }
 
+td,
+th {
+  border: 1px solid #ccc;
+}
+
+td {
+  height: 16em;
+}
+
 .event {
   border-radius: 8px;
+  border: 1px solid black;
+}
 }
 
 .event-greys {
