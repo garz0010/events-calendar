@@ -1,5 +1,8 @@
-table {
+html {
   font-family: Merriweather, serif;
+}
+
+table {
   border-color: #ccc;
 }
 
