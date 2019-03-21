@@ -12,7 +12,11 @@ th {
 }
 
 td {
-  height: 16em;
+  height: 9em;
+}
+
+.numbers {
+  text-align: right;
 }
 
 .event {
